@@ -39,7 +39,7 @@ Use the chatbot for study-related questions.
 
 📝 Setup & Installation
 Clone this repository:
-git clone https://github.com/your-username/gpa-calculator.git
+git clone https://github.com/AnuragRawat22/gpa-calculator.git
 
 Navigate to the project folder:
 cd gpa-calculator
